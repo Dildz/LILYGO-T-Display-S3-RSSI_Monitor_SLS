@@ -1,0 +1,14 @@
+SET(SOURCES ui_MainScreen.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_1611841627.c
+    fonts/ui_font_KenyanCoffeeRg12.c
+    fonts/ui_font_KenyanCoffeeRg15.c
+    fonts/ui_font_KenyanCoffeeRg17.c
+    fonts/ui_font_KenyanCoffeeRg20.c
+    fonts/ui_font_KenyanCoffeeRg30.c
+    fonts/ui_font_KenyanCoffeeRg40.c
+    fonts/ui_font_KenyanCoffeeRg50.c)
+
+add_library(ui ${SOURCES})

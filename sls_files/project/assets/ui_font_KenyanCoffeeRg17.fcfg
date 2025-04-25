@@ -1,0 +1,16 @@
+{
+  "codename": "KenyanCoffeeRg17",
+  "ttf_path": "/assets/Kenyan Coffee Rg.otf",
+  "bin_path": "/assets\\ui_font_KenyanCoffeeRg17.bin",
+  "c_path": "/assets\\ui_font_KenyanCoffeeRg17.c",
+  "cfg_path": "/assets\\ui_font_KenyanCoffeeRg17.fcfg",
+  "size": 17,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
