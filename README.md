@@ -62,4 +62,4 @@ This code implements a Wi-Fi network monitor with a modern UI created in SquareL
   - **NB!!** Every time a change is made in SLS, & the UI files have been replaced in PlatformIO **'src'** folder - you **must first clean the project before building/uploading** otherwise your changes will not take effect.
 
 ## Credits:
-This project is inspired by [Volos Projects - rssiMonitor](https://github.com/VolosR/rssiMonitor) modified for the T-Display-S3
+This project is inspired by [Volos Projects - rssiMonitor](https://github.com/VolosR/rssiMonitor) modified for the T-Display-S3 TFT
