@@ -1,4 +1,4 @@
-# LILYGO T-Display-S3 RSSI (Wi-Fi Strength) Monitor Project with SquareLine Studio UI
+# LILYGO T-Display-S3-TFT RSSI (Wi-Fi Strength) Monitor Project with SquareLine Studio UI
 
 ## Description:
 This code implements a Wi-Fi network monitor with a modern UI created in SquareLine Studio, displaying current/min/max/ave RSSI values, ping time to google.com & IP information on the LilyGO T-Display-S3's built-in screen.
